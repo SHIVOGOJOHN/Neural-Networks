@@ -6,11 +6,14 @@ This repository contains an analysis of the well-known Bank Marketing dataset, s
 ## Insights and Objectives
 This project aims to analyze the bank marketing data and uncover patterns that can assist in optimizing future marketing campaigns. Some of the key objectives include:
 
--Determine potential client clusters most likely to subscribe to a term deposit.
--Explore client characteristics (age, job, education, balance, etc.) that lead to higher term deposit subscriptions.
--Identify correlations between various factors (e.g., housing loans, previous campaign success) and term deposit outcomes.
+- Determine potential client clusters most likely to subscribe to a term deposit.
+- Explore client characteristics (age, job, education, balance, etc.) that lead to higher term deposit subscriptions.
+- Identify correlations between various factors (e.g., housing loans, previous campaign success) and term deposit outcomes.
 
 ## About Dataset
+- Bank dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank.csv
+- Prediction dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/sample_data.csv
+  
 ### 1.Bank Client Data
 - age: Client's age (numeric)
 -  job: Client's occupation (e.g., 'admin.', 'technician', 'student')
@@ -34,10 +37,10 @@ This project aims to analyze the bank marketing data and uncover patterns that c
 - y: has the client subscribed a term deposit? (binary: 'yes','no')
 
 ## Code
+- Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank_Marketing.ipynb
+- .py ; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank_marketing.py
 
-
-
-Feel free to fork this repository and contribute with your suggestions to improve the analysis!
+#### Feel free to fork this repository and contribute with your suggestions to improve the analysis!
 
 # References:
 
