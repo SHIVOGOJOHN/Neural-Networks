@@ -36,13 +36,13 @@ This project aims to analyze the bank marketing data and uncover patterns that c
 ### 4. Output variable (desired target):
 - y: has the client subscribed a term deposit? (binary: 'yes','no')
 
-## 💡 Code
+# 💡 Code
 - Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank_Marketing.ipynb
 - .py ; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank_marketing.py
 
+## 💡 References:
+- UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing 
+- Investopedia: https://www.investopedia.com/terms/t/termdeposit.asp
+
 #### Feel free to fork this repository and contribute with your suggestions to improve the analysis!
 
-# 💡 References:
-
-UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing 
-Investopedia: https://www.investopedia.com/terms/t/termdeposit.asp
