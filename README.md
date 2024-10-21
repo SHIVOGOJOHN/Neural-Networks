@@ -1,16 +1,16 @@
-# Bank Marketing Campaign
+# 📊 Bank Marketing Campaign 
 
-## Project Overview
+## 💡 Project Overview
 This repository contains an analysis of the well-known Bank Marketing dataset, sourced from the UCI Machine Learning Repository. The goal of this project is to determine whether or not a customer subscribes to term deposit(yes/no) using a neural network
 
-## Insights and Objectives
+## 💡 Insights and Objectives
 This project aims to analyze the bank marketing data and uncover patterns that can assist in optimizing future marketing campaigns. Some of the key objectives include:
 
 - Determine potential client clusters most likely to subscribe to a term deposit.
 - Explore client characteristics (age, job, education, balance, etc.) that lead to higher term deposit subscriptions.
 - Identify correlations between various factors (e.g., housing loans, previous campaign success) and term deposit outcomes.
 
-## About Dataset
+## 💡 About Dataset
 - Bank dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank.csv
 - Prediction dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/sample_data.csv
   
@@ -36,13 +36,13 @@ This project aims to analyze the bank marketing data and uncover patterns that c
 ### 4. Output variable (desired target):
 - y: has the client subscribed a term deposit? (binary: 'yes','no')
 
-## Code
+## 💡 Code
 - Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank_Marketing.ipynb
 - .py ; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank_marketing.py
 
 #### Feel free to fork this repository and contribute with your suggestions to improve the analysis!
 
-# References:
+# 💡 References:
 
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing 
 Investopedia: https://www.investopedia.com/terms/t/termdeposit.asp
