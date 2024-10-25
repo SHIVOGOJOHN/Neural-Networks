@@ -23,6 +23,12 @@ The dataset used in this project, `drug.csv`, contains the following columns:
 - Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/Drug%20(1).ipynb
 - .py; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug%20(1).py
 
+## 💡 Powerpoint
+https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug_dataset_analysis.pptx
+
+## Simple web app
+https://drugprescription.onrender.com
+
 ## Feel free to add any additional project-specific information or installation details as required
 
 
