@@ -6,7 +6,7 @@ This project utilizes a neural network to predict real estate prices based on va
 ## Table of Contents
 - [Dataset](#dataset)
 - [Technologies](#technologies)
-- [Installation](#installation)
+- [Code](#code)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
@@ -14,6 +14,8 @@ This project utilizes a neural network to predict real estate prices based on va
 - [License](#license)
 
 ## Dataset
+dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Real%20Estate/Real%20estate.csv
+
 The dataset is obtained from Kaggle [Real Estate Price Prediction](https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction) and contains various features related to properties, such as:
 - Transaction date
 - House age
@@ -29,4 +31,10 @@ The dataset is obtained from Kaggle [Real Estate Price Prediction](https://www.k
 - NumPy
 - Matplotlib
 - Seaborn
+
+## Code
+Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Real%20Estate/Real_Estate.ipynb
+.py; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Real%20Estate/real_estate.py
+
+
 
