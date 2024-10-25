@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-data = pd.read_csv("drug.csv")
+data = pd.read_csv(r"Drug Recommendations/.streamlit/drug.csv")
 
 # Set the title of the app
 st.title('Drug Prescription Data Analysis')
