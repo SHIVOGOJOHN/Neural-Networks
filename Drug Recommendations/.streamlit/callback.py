@@ -2,9 +2,13 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import os
+
+# Define the path to the dataset
+data_path = os.path.join('.streamlit', 'drug.csv')
 
 # Load dataset
-data = pd.read_csv("drug.csv")
+data = pd.read_csv(data_path)
 
 # Set the title of the app
 st.title('Drug Prescription Data Analysis')
