@@ -20,8 +20,8 @@ The dataset used in this project, `drug.csv`, contains the following columns:
   
 
 ## 💡 Code
-Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/Drug%20(1).ipynb
-.py; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug%20(1).py
+- Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/Drug%20(1).ipynb
+- .py; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug%20(1).py
 
 
 
