@@ -7,12 +7,6 @@ This project utilizes a neural network to predict real estate prices based on va
 - [Dataset](#dataset)
 - [Technologies](#technologies)
 - [Code](#code)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Dataset
 dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Real%20Estate/Real%20estate.csv
 
