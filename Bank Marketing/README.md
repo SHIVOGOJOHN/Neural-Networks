@@ -11,8 +11,8 @@ This project aims to analyze the bank marketing data and uncover patterns that c
 - Identify correlations between various factors (e.g., housing loans, previous campaign success) and term deposit outcomes.
 
 ## 💡 About Dataset
-- Bank dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank.csv
-- Prediction dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/sample_data.csv
+- Bank dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank%20Marketing/bank.csv
+- Prediction dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank%20Marketing/sample_data%20(1).csv
   
 ### 1.Bank Client Data
 - age: Client's age (numeric)
@@ -37,8 +37,8 @@ This project aims to analyze the bank marketing data and uncover patterns that c
 - y: has the client subscribed a term deposit? (binary: 'yes','no')
 
 # 💡 Code
-- Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank_Marketing.ipynb
-- .py ; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/bank_marketing.py
+- Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank%20Marketing/Bank_Marketing%20(4).ipynb
+- .py ; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Bank%20Marketing/bank_marketing%20(3).py 
 
 ## 💡 References:
 - UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing 
