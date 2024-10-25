@@ -6,6 +6,9 @@ This project implements a neural network to predict the type of drug recommended
 This project builds a classification model to predict the correct drug type for a given patient using demographic and medical details. The model is trained to distinguish between multiple drug classes and is designed to handle both numerical and categorical features. 
 
 ## 💡 About Dataset
+- Drug dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug.csv
+- Prediction dataset; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/single_row_sample.csv
+  
 The dataset used in this project, `drug.csv`, contains the following columns:
 - **Age**: Age of the patient.
 - **Sex**: Gender of the patient (`F` for Female, `M` for Male).
@@ -17,6 +20,8 @@ The dataset used in this project, `drug.csv`, contains the following columns:
   
 
 ## 💡 Code
+Notebook; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/Drug%20(1).ipynb
+.py; https://github.com/SHIVOGOJOHN/Neural-Network/blob/main/Drug%20Recommendations/drug%20(1).py
 
 
 
